@@ -1,0 +1,289 @@
+/* div{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    border:20px solid yellowgreen;
+    border-top:20px solid aquamarine;
+    animation: spinAnimation 1.5s ease-in-out 0s infinite normal;
+}
+@keyframes spinAnimation{
+    from{
+        transform:rotate(0deg);
+    }
+    to{
+        transform:rotate(360deg);
+    }
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* div{
+    height:100px;
+    width:100px;
+    background-color: chartreuse;
+}
+
+@media (max-width: 300px){
+    div{
+        background-color: green;
+    }
+}
+
+@media (min-width:300px) and ( max-width:400px){
+    div{
+        background-color:red;
+    }
+}
+@media (min-width:400px) and (max-width:600px){
+    div{
+        background-color: chocolate;
+    }
+}
+
+@media (min-width:600px){
+    div{
+        background-color: blue;
+    }
+} */
+
+
+
+
+
+
+
+
+
+
+/* .navbar{
+    background-color: aqua;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+a{
+
+    text-decoration: none;
+    color:black;
+
+}
+
+li{
+    list-style-type:none;
+}
+.outer{
+    height: 400px;
+    width:400px;
+    background-color: aquamarine;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    height: 100px;
+    width:100px;
+    background-color:darkorchid;
+} */
+
+
+
+
+/* body{
+    text-align:center;
+}
+
+div{
+    height:100px;
+    width:100px;
+    display:inline-block;
+    border:2px solid black;
+}
+
+#container{
+    width:800px;
+    height:200px;
+}
+#Box1{
+    background-color: aqua;
+}
+#Box2{
+    background-color: aquamarine;
+}
+#Box3{
+    background-color: cadetblue;
+}
+#Box4{
+    background-color:wheat;
+}
+#Box5{
+    background-color:chocolate;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+    padding:0;
+    margin:0;
+} */
+/* div{
+    text-decoration: white;
+    height:100px;
+    width:100px;
+    background-image: url("flowers.jpg");
+    background-size:cover;
+    position: fixed;
+    right:0px;
+    top:50px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+    padding:0;
+    margin:0;
+}
+
+
+#navbar{
+    height:60px;
+    background-color:#0f1111;
+}
+
+#logo{
+    color: #f08804;
+    font-size:25px;
+}
+button{
+    background-color:#f08804;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+    color:white;
+}
+
+.contentBox{
+    height:100px;
+    width:100px;
+    border:2px solid black;
+    text-align:center;
+    display:inline-block;
+}
+footer{
+    background-color:#0f1111;
+    color:white;
+    text-align: center;
+}
+#content{
+    height:700px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* h1{
+    color:darkblue;
+}
+#heading
+p{
+    color:#ff0000;
+}
+button{
+    color:#ff0000;
+    background-color:aqua ;
+}
+
+/* body{
+    background-color:#ffff00;
+} */
+/* #heading1{
+    color:blueviolet
+}
+#heading2{
+    color:coral
+}
+.myclass{
+    color:navajowhite ;
+} */ 
+/* *{
+    font-family: 'Times New Roman', Times, serif;
+}
+#box{
+    background-color: blue;
+}
+.heading{
+    color:red
+}
+button{
+    background-color: green;
+}
+h1{
+    text-align:center;
+    /* text-decoration:line-through; */
+    /* font-weight:bolder; */
+    /* text-transform: capitalize;
+
+}
+p{
+    text-align:center;
+}
+a{
+    text-decoration: none;
+}
+#one{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+/* *{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+}
+#outer{
+    font-size:25px;
+}
+#inner{
+    font-size:10px;
+} */
